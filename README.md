@@ -15,5 +15,9 @@ This script counts the occurrences of the word **"python"** in the StackOverflow
 chmod +x _output/count_python.sh  # Ensure it's executable
 ./_output/count_python.sh
 
+### **Running `count_github.py`**
+This script counts the occurrences of the word **"github"** in the StackOverflow dataset.
+python3 _output/count_github.py
+
 # Name: Advait Pillai
 # Computing ID: advaitp/advaitpillai99
